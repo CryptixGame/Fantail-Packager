@@ -1,4 +1,4 @@
-# FantailHome
-This is the home page for all fantail projects and programs.
+# Fantail Packager
+A quick and easy Windows file drawer with archives, other tools, and more.
 
-Find web applications, code snippits, and much more all in one place.
+Find code templates, archived isos, and alot more all from CMD / Powershell.
